@@ -1,7 +1,7 @@
 This project was created to make and master good implementations of popular react frameworks.
 
 # React Playground
- - [ ] - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+ - [X] - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
     - Sources:
       - [React Router Architecture that's Simple, Scalable and Protected](https://www.ryanjyost.com/react-routing)
       - [Best Scalable React App Structure 2021](https://codewithghazi.com/best-scalable-react-app-structure-2021/)
